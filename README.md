@@ -83,8 +83,7 @@ format:
 
 > [!NOTE]
 > This is required by
->
-the [release workflow, which analyzes every commit to automatically generate the releases](./.github/workflows/release.yml).
+> the [release workflow, which analyzes every commit to automatically generate the releases](./.github/workflows/release.yml).
 
 ---
 
