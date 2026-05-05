@@ -25,9 +25,9 @@ Using this library is straightforward:
 
 ### 1. Create a repository
 
-Click the *
-*[Use this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
-** button to create a new repository based on this template.
+Click the
+**[Use this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)**
+button to create a new repository based on this template.
 
 ---
 
