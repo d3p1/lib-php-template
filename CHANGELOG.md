@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/d3p1/lib-php-template/compare/v1.0.1...v1.0.2) (2026-05-05)
+
+
+### Bug Fixes
+
+* adjust code style guidelines [[#1](https://github.com/d3p1/lib-php-template/issues/1)] ([8fce9ce](https://github.com/d3p1/lib-php-template/commit/8fce9cef0e8595401f5935ab9ddd48eb9f7e2421))
+
 ## [1.0.1](https://github.com/d3p1/lib-php-template/compare/v1.0.0...v1.0.1) (2026-05-05)
 
 
